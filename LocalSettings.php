@@ -58,7 +58,7 @@ $wgEmailAuthentication = true;
 ## Database settings
 ## Database settings - PostgreSQL (Render)
 $wgDBtype = "postgres";
-$wgDBserver = "dpg-d7uo0o1kh4rs73act9h0-a"; 
+$wgDBserver = "dpg-d7uo0o1kh4rs73act9h0-a";
 $wgDBname = "mediawiki_gp79";
 $wgDBuser = "mediawiki";
 $wgDBpassword = "y9Bnqlv0kiAg94n1HUZkzumsPz0lU2Ya";
