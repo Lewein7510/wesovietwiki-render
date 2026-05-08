@@ -1,4 +1,4 @@
-FROM mediawiki:1.45
+FROM mediawiki:1.45.3
 
 ENV PORT=80
 EXPOSE 80
