@@ -30,7 +30,7 @@ $wgDBtype = "postgres";
 $wgDBserver = "dpg-d7uo0o1kh4rs73act9h0-a";
 $wgDBname = "mediawiki_gp79";
 $wgDBuser = "mediawiki";
-$wgDBpassword = "y9Bnqlv0kiAg94n1HUZkzumsPz01U2Ya"; // 숫자 1로 수정됨
+$wgDBpassword = "y9Bnqlv0kiAg94n1HUZkzumsPz01U2Ya";
 $wgDBport = "5432";
 
 $wgEnableUploads = false;
@@ -43,7 +43,7 @@ $wgLocaltimezone = "UTC";
 
 $wgSecretKey = "ac6f1331248aa844fc8e9deaca8dc8fefdaf9feefdec6f02824738fa7f1a763b";
 $wgAuthenticationTokenVersion = "1";
-$wgUpgradeKey = "c4f352becccdaaa5"; // 화면에 뜬 최신 키로 수정됨
+$wgUpgradeKey = "c4f352becccdaaa5";
 
 $wgRightsPage = "";
 $wgRightsUrl = "";
