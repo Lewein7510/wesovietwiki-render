@@ -1,6 +1,6 @@
 FROM mediawiki:1.45.3
 
-# 1. PostgreSQL 접속을 위한 드라이버 설치 (이게 핵심입니다!)
+# 1. PostgreSQL 접속을 위한 드라이버 설치
 USER root
 RUN apt-get update && apt-get install -y libpq-dev \
     && docker-php-ext-install pgsql pdo_pgsql
