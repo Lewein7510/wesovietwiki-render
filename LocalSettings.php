@@ -60,3 +60,5 @@ wfLoadSkin( 'Timeless' );
 wfLoadSkin( 'Vector' );
 
 $wgShowExceptionDetails = true;
+
+$wgUpgradeKey = "c4f352becccdaaa5";
