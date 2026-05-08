@@ -30,7 +30,7 @@ $wgDBtype = "postgres";
 $wgDBserver = "dpg-d7uo0o1kh4rs73act9h0-a";
 $wgDBname = "mediawiki_gp79";
 $wgDBuser = "mediawiki";
-$wgDBpassword = "y9Bnqlv0kiAg94n1HUZkzumsPz0lU2Ya";
+$wgDBpassword = "y9Bnqlv0kiAg94n1HUZkzumsPz01U2Ya";
 $wgDBport = "5432";
 
 $wgEnableUploads = false;
